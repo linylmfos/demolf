@@ -7,4 +7,6 @@ ___中国
 2. 第二天  
 3. 第三页
 
-[当当网](http://dangdang.com)
+[当当网](http://dangdang.com)  
+
+![风景图](http://pic1.zhimg.com/50/v2-7d3e56cfa0787b2ae92d0032f2342fd7_hd.jpg)
