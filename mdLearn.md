@@ -33,6 +33,30 @@
 >>> 这是多重引文
 
 
+<!--- 下面是本文档中用到的链接 -->
+[百度]: http://www.baidu.com
+
+[百度]: http://www.baidu.com
+[mdLearn]: mdLearn.md
+
+## 水平分割线 
+
+hello     
+
+---
+水平分割线  
+<hr> 
+
+<img src="https://www.baidu.com/img/bd_logo1.png?where=super" >
+
+图片居中
+
+<p align="center">
+    <img src="https://www.baidu.com/img/bd_logo1.png?where=super" >
+</p>
+
+## 水平居中  
+<p align="center">hello</p>  
 
 ## 代码块 demo  
 
@@ -44,10 +68,5 @@
   for(var i=0;i<5;i++>) {
       console.log(i);
   }
+```
 
-
-<!--- 下面是本文档中用到的链接 -->
-[百度]: http://www.baidu.com
-
-[百度]: http://www.baidu.com
-[mdLearn]: mdLearn.md
