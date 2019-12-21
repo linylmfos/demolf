@@ -63,7 +63,9 @@ hello
 <p align="center">hello</p>  
 
 ## 表情符号  
-:smile  
+:smile: 
+
+
 ## 代码块 demo  
 
 - 行内代码   
