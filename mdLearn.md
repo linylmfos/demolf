@@ -53,11 +53,17 @@ hello
 
 <p align="center">
     <img src="https://www.baidu.com/img/bd_logo1.png?where=super" >
-</p>
+</p>  
 
+## GFM demo  
+- [x] task 1
+- []  task 2
+- [x] task 3
 ## 水平居中  
 <p align="center">hello</p>  
 
+## 表情符号  
+:smile  
 ## 代码块 demo  
 
 - 行内代码   
