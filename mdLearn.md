@@ -16,6 +16,13 @@
 内部链接2，链接本文档的其他部分： [代码块 demo](mdLearn.md#代码块-demo)  
 
 ## 图片 demo
+图片的markdown语法  
+![alt](url text)  
+- 外部图片 demo
+![baidu](https://www.baidu.com/img/bd_logo1.png?where=super "百度网站")  
+
+- 仓库内的图片 demo  
+![](images/yixiu.jpg)  
 
 ## 引用 demo
 
