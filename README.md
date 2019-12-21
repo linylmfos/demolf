@@ -9,4 +9,4 @@ ___中国
 
 [当当网](http://dangdang.com)  
 
-![风景图](http://pic1.zhimg.com/50/v2-7d3e56cfa0787b2ae92d0032f2342fd7_hd.jpg)
+![风景图](http://img4.imgtn.bdimg.com/it/u=2781688970,2787833376&fm=15&gp=0.jpg)
