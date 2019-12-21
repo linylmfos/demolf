@@ -68,6 +68,29 @@ hello
 
 ## 代码块 demo  
 
+代码高亮
+----------
+
+### 语法
+在三个反引号后面加上编程语言的名字，另起一行开始写代码，最后一行再加上三个反引号。
+
+### 效果
+```Java
+public static void main(String[]args){} //Java
+```
+```c
+int main(int argc, char *argv[]) //C
+```
+```Bash
+echo "hello GitHub" #Bash
+```
+```javascript
+document.getElementById("myH1").innerHTML="Welcome to my Homepage"; //javascipt
+```
+```cpp
+string &operator+(const string& A,const string& B) //cpp
+
+
 - 行内代码   
 这个代码中用来声明变量是 var a = 10, 打印变量内容是`console.log` 函数的调用   
 
