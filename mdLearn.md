@@ -26,7 +26,25 @@
 
 ## 引用 demo
 
-## 代码块 demo
+> 这是一个引文  
+——出自《论语》
+
+多次引用   
+>>> 这是多重引文
+
+
+
+## 代码块 demo  
+
+- 行内代码   
+这个代码中用来声明变量是 var a = 10, 打印变量内容是`console.log` 函数的调用   
+
+```javascript
+  const a = 10;
+  for(var i=0;i<5;i++>) {
+      console.log(i);
+  }
+
 
 <!--- 下面是本文档中用到的链接 -->
 [百度]: http://www.baidu.com
